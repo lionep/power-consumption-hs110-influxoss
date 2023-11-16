@@ -1,0 +1,14 @@
+{
+  "name": "power-consumption-hs110-influxoss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "tplink-smarthome-api": "^4.2.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
