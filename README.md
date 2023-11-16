@@ -12,3 +12,6 @@ NODE_ENABLE_LOG=1
 NODE_INTERVAL_SECONDS=10
 ```
 
+## Chronograf screenshot
+
+![Chronograf](./github/chronograf.png)
